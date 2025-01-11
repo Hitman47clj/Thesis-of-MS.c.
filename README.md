@@ -1,2 +1,2 @@
 # Thesis-of-MS.c.
-The attachment is the thesis of my master degree.
+The attachment is the thesis and paper during my master degree.
